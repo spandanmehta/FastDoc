@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FastDoc</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_specialties">Specialties</string>
+    <string name="title_activity_doctors_list">DoctorsList</string>
+    <string name="title_activity_about_us">AboutUs</string>
+</resources>

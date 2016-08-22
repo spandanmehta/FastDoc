@@ -1,0 +1,15 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:app="http://schemas.android.com/apk/res-auto"
+      xmlns:tools="http://schemas.android.com/tools"
+      tools:context="com.t0rn4d0.fastdoc.MainActivity">
+    <item
+        android:id="@+id/action_settings"
+        android:orderInCategory="100"
+        android:title="About Us"
+        app:showAsAction="collapseActionView"/>
+    <item
+        android:id="@+id/selected_city"
+        android:title="Selected City"
+        app:showAsAction="ifRoom"/>
+
+</menu>
